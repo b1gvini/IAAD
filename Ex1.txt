@@ -1,0 +1,6 @@
+Banco de dados é uma ocleção de dados inter-relacionados,
+representando informaçõe sonber um domínio especifico.
+
+SGBD é um software com recursos específicos para facilitar a manipulação
+das informações dos dados e o desenvolvimento de programas aplicativos.
+Ex: SQL Server, PostgresSQL.
